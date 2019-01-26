@@ -1,4 +1,6 @@
 # lasso_ProximalGD_Accelerated_ADMM
+https://www.authorea.com/users/254721/articles/349097-lasso-proximal-accelerated-proximal-gradient-method-admm
+
 minimize f(x) + g(x)
 
 Proximal gradient descent:  minimize g(x) using proximal operator and performance gradient updates on f(x), which has convergence rate of O(1/k). 
